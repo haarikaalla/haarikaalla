@@ -2,7 +2,7 @@
 
 # Hi, I'm Haarika Alla 👋
 
-### AI/ML Researcher · MLOps · LLMOps · Full-Stack Web Development · Data Science · Cloud Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI%2FML+Researcher;Data+Scientist;Full-Stack+Engineer;MLOps+%7C+LLMOps+Engineer;Cloud+Developer" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/haarika-alla-791880288" target="_blank">
@@ -22,8 +22,10 @@
 
 ### 🚀 About Me
 
+- 👩‍💻 I'm an **AI/ML Researcher, Data Scientist, and Full-Stack Engineer**
+- 🧠 I work across the stack: model research → MLOps/LLMOps pipelines → backend APIs → production frontends
 - 🎓 Expected Graduation: **May 2027**
-- 🔬 Researching **spatiotemporal GNNs, physics-informed ML, and agentic AI systems**
+- 🔬 Research focus: spatiotemporal GNNs, physics-informed ML, and agentic AI systems
 - 📄 Published researcher — full list on [Google Scholar](https://scholar.google.com/citations?user=0CydJbcAAAAJ&hl=en)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haarika-alla-791880288)
 
@@ -34,6 +36,7 @@
 **Languages**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
