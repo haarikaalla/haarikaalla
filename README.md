@@ -150,10 +150,6 @@
 
 ---
 
-### 📚 Publications
-
-Full publication list, citation metrics, and preprints: **[Google Scholar →](https://scholar.google.com/citations?user=0CydJbcAAAAJ&hl=en)**
-
 ---
 
 ### 📊 GitHub Stats
