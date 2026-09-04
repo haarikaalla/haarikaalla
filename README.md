@@ -24,7 +24,7 @@
 
 - 👩‍💻 I'm an **AI/ML Researcher, Data Scientist, and Full-Stack Engineer**
 - 🧩 I work across the stack: model research → MLOps/LLMOps pipelines → backend APIs → production frontends
-- 🎓 Expected Graduation: **May 2027**
+- 🎓 Expected Graduation: Bachelor Of Technology **May 2027**
 - 🔬 Research focus: spatiotemporal GNNs, physics-informed ML, and agentic AI systems
 - 📄 Published researcher — full list on [Google Scholar](https://scholar.google.com/citations?user=0CydJbcAAAAJ&hl=en)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/haarika-alla-791880288)
