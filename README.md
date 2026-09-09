@@ -146,8 +146,6 @@
 - **Causal inference in ML systems** — moving models from correlation to counterfactual, intervention-aware reasoning
 - **Federated & privacy-preserving learning** — training across distributed data without centralizing sensitive information
 - **Model compression & efficient inference** — quantization, distillation, and pruning to make large models deployable at the edge
-- **Physics-informed graph neural networks** — embedding domain physics into GNNs to catch cascading failures (climate, infrastructure) before they happen
-
 ---
 
 ---
