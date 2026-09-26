@@ -74,12 +74,40 @@
 <img src="https://img.shields.io/badge/OpenCV-DBCDF0?style=flat-square&logo=opencv&logoColor=333333"/>
 </p>
 
+**Deep Learning & Classical ML**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FAEDCB?style=flat-square&logo=tensorflow&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Keras-F2C6DE?style=flat-square&logo=keras&logoColor=333333"/>
+<img src="https://img.shields.io/badge/JAX-C6DEF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-D4F0DC?style=flat-square&logo=scikitlearn&logoColor=333333"/>
+<img src="https://img.shields.io/badge/NumPy-C6DEF1?style=flat-square&logo=numpy&logoColor=333333"/>
+<img src="https://img.shields.io/badge/SciPy-DBCDF0?style=flat-square&logo=scipy&logoColor=333333"/>
+</p>
+
+**Data Viz & Analysis**
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-C9E4DE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-C6DEF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-F6C6D9?style=flat-square&logo=plotly&logoColor=333333"/>
+<img src="https://img.shields.io/badge/PySpark-FAEDCB?style=flat-square&logo=apachespark&logoColor=333333"/>
+</p>
+
 **Vector Databases / RAG Infra**
 <p>
 <img src="https://img.shields.io/badge/Pinecone-E8E8E8?style=flat-square"/>
 <img src="https://img.shields.io/badge/FAISS-C6DEF1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Qdrant-F2C6DE?style=flat-square"/>
 <img src="https://img.shields.io/badge/ChromaDB-DBCDF0?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-DBCDF0?style=flat-square"/>
+</p>
+
+**LLM Serving & Experiment Tracking**
+<p>
+<img src="https://img.shields.io/badge/MLflow-C9E4DE?style=flat-square&logo=mlflow&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-FAEDCB?style=flat-square&logo=weightsandbiases&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Ollama-D4F0DC?style=flat-square"/>
+<img src="https://img.shields.io/badge/vLLM-C6DEF1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optuna-F2C6DE?style=flat-square"/>
 </p>
 
 **Databases**
@@ -98,6 +126,18 @@
 <img src="https://img.shields.io/badge/AWS-FAEDCB?style=flat-square&logo=amazonaws&logoColor=333333"/>
 <img src="https://img.shields.io/badge/Docker-C6DEF1?style=flat-square&logo=docker&logoColor=333333"/>
 <img src="https://img.shields.io/badge/Kubernetes-DBCDF0?style=flat-square&logo=kubernetes&logoColor=333333"/>
+</p>
+
+**Software Engineering & Testing**
+<p>
+<img src="https://img.shields.io/badge/Git-C6DEF1?style=flat-square&logo=git&logoColor=333333"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-D4F0DC?style=flat-square&logo=githubactions&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Pytest-FAEDCB?style=flat-square&logo=pytest&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Jest-F2C6DE?style=flat-square&logo=jest&logoColor=333333"/>
+<img src="https://img.shields.io/badge/REST%20%2F%20GraphQL-DBCDF0?style=flat-square&logo=graphql&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-C9E4DE?style=flat-square&logo=swagger&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Postman-FAEDCB?style=flat-square&logo=postman&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Nginx-D4F0DC?style=flat-square&logo=nginx&logoColor=333333"/>
 </p>
 
 **Data Engineering**
@@ -123,6 +163,8 @@
 - ⚙️ **MLOps/LLMOps** — CI/CD for models, experiment tracking, containerized serving, observability and cost-aware inference
 - ☁️ **Cloud-native deployment** — containerizing and deploying services on AWS/Azure with Docker & Kubernetes
 - 🔬 Occasional deep dives into research (spatiotemporal GNNs, physics-informed ML, agentic AI) when a problem calls for it
+
+**Research interests (short version):** reasoning & test-time compute · multimodal models · agent orchestration · vision-language models · mixture-of-experts · RLHF/RLAIF · mechanistic interpretability · physics-informed GNNs · world models · causal inference · federated learning · model compression
 
 ---
 
