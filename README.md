@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Haarika Alla 👋
+# Hi, I'm Haarika Alla👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=B39DDB&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Full-Stack+Software+Engineer;MLOps+%7C+LLMOps+Engineer;Cloud+%26+Backend+Developer;Building+End-to-End+AI+Products" alt="Typing SVG" />
 
